@@ -25,7 +25,7 @@ const Homepage = () => {
           {/* Description*/}
           <p className='md:text-xl'>
             Welcome to Apophis.Inqtel, where innovation and creaivity converge with
-            Artificial Intelligence. <br /> We are the Galaxy's leader in Advanced technological
+            Artificial Intelligence. <br /> We are the Galaxy&apos;s leader in Advanced technological
             research and development.
           </p>
           {/* Buttons */}
